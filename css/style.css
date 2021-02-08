@@ -1,26 +1,20 @@
 
     #register{
-        height: 50px;
-        background-color: blueviolet;
+
+        background-color:plum;
     }
 
     #contacts{
-        height:50px;
+
         background-color: aqua;
         text-align: right;
     }
 
     #nadpys{
         background-color: aquamarine;
-        overflow: hidden;
-        display: inline-block
+
         }
 
-    #logo{
-
-
-
-    }
 
     #mainNav{
         background-color: darkkhaki;
@@ -28,13 +22,19 @@
 
     .car{
         margin-top: 50px;
+
+
         max-width:90%;
-        height:350px;
-        width: 500px;
+        -height:350px;
+        -width: 500px;
     }
 
     #aboutUs{
         margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+
+
     }
 
     #map{
@@ -42,8 +42,5 @@
         height: 500px;
     }
 
-    #content{
-        margin-left: 100px;
-        margin-right: 100px;
-    }
+
 
