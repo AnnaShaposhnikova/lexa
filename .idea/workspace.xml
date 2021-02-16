@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/restzone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restzone.html" beforeDir="false" afterPath="$PROJECT_DIR$/restzone.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/room.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +12,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -120,7 +125,7 @@
       <workItem from="1613383411809" duration="79000" />
       <workItem from="1613383515707" duration="153000" />
       <workItem from="1613383697184" duration="65000" />
-      <workItem from="1613383846113" duration="3840000" />
+      <workItem from="1613383846113" duration="4210000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit_main_page">
       <created>1612779456969</created>
@@ -150,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613124139321</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4 commit_room_page">
+      <created>1613461808246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613461808246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -210,14 +222,15 @@
     <MESSAGE value="2 commit_main_page" />
     <MESSAGE value="3 commit_main_page" />
     <MESSAGE value="3 commit_room_page" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 commit_room_page" />
+    <MESSAGE value="4 commit_room_page" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 commit_room_page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/room.html</url>
-          <line>203</line>
+          <line>233</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
