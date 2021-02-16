@@ -33,10 +33,23 @@
         height: 500px;
     }
     .room{
-        max-width:90%;
+        width:90%;
+
     }
     .size-icon{
         font-size: 3em
+    }
+    .media-icon {
+        vertical-align: middle;
+        display: inline;
+    }
+    .media-icon span{
+        margin-left: 1em;
+    }
+    .icon{
+        height: 32px;
+       width: 32px;
+        border: 1px solid black;
     }
 
 
