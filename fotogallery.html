@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8">
+    <title>Фотогаллерея</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+          integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+        crossorigin="anonymous"></script>
+<div class="container-fluid">
+
+    <div class="row">
+        <div class="col">
+            <div id="contacts">+711111111 ,asd@asd</div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-5"></div>
+        <div class="col-2 text-center" id="nadpys" >
+            <a class="navbar-brand" href="index.html"> <img  src="images/logo.png" class="img-fluid mx-auto d-bloc"></a>
+        </div>
+        <div class="col-5"></div>
+
+    </div>
+    <div class="row" id="mainNav">
+
+        <div class="container d-inline-flex justify-content-center">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Главная<span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="room.html">Номера</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="restzone.html">Кухня и зоны отдыха</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="fotogallery.html">Фотогаллерея</a>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </nav>
+        </div>
+    </div>
+
+
+    <div class="row justify-content-center">
+        <div class="col-sm-4 mt-2 text-center">
+            <h2>Фотогаллерея </h2>
+        </div>
+    </div>
+    <div class="row p-2">
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/1.JPG"><img src="images/11.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/2.JPG"><img src="images/21.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/3.JPG"><img src="images/31.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/4.JPG"><img src="images/41.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+
+    </div>
+    <div class="row p-2">
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/1.JPG"><img src="images/11.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/2.JPG"><img src="images/21.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/3.JPG"><img src="images/31.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+        <div class="col-sm-3 pt-2 text-center">
+            <div>
+                <a data-fancybox="gallery" href="images/4.JPG"><img src="images/41.jpg" class="img-fluid"></a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row justify-content-center">
+        <div class="col-sm-8 text-center">
+            всякие контакты и прочее
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<script>
+    $.fancybox.defaults.arrows = true;
+    $.fancybox.defaults.clickContent = false;
+    $.fancybox.defaults.toolbar = false;
+
+</script>
+</body>
+</html>

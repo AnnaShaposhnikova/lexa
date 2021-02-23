@@ -17,8 +17,7 @@
         background-color: darkkhaki;
     }
 
-    .car{
-        margin-top: 50px;
+    .my_img{
         max-width:90%;
     }
 
@@ -32,10 +31,8 @@
         background-color: lawngreen;
         height: 500px;
     }
-    .room{
-        width:90%;
 
-    }
+
     .size-icon{
         font-size: 3em
     }

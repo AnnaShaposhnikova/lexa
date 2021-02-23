@@ -2,6 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fotogallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1_etag_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2_etag_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3_etag_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Mini-Bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banya_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yard_61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0570.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0571.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0572.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0574.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0575.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0576.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0577.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0582.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0583.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0584.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0585.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/DSC_0586.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/DSC_0584.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/DSC_0586.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/DSC_0587.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -30,6 +96,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,7 +206,7 @@
       <workItem from="1613383411809" duration="79000" />
       <workItem from="1613383515707" duration="153000" />
       <workItem from="1613383697184" duration="65000" />
-      <workItem from="1613383846113" duration="20706000" />
+      <workItem from="1613383846113" duration="31180000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit_main_page">
       <created>1612779456969</created>
@@ -176,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613462168415</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5 commit_restzone_rooms_add_ big_foto">
+      <created>1613576163441</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613576163441</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -238,14 +319,15 @@
     <MESSAGE value="3 commit_room_page" />
     <MESSAGE value="4 commit_room_page" />
     <MESSAGE value="5 commit_room_page_add_nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 commit_room_page_add_nav" />
+    <MESSAGE value="5 commit_restzone_rooms_add_ big_foto" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 commit_restzone_rooms_add_ big_foto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/room.html</url>
-          <line>233</line>
+          <line>230</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
