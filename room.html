@@ -7,6 +7,8 @@
           integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link href="css/style.css" type="text/css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&family=Shippori+Mincho:wght@600&display=swap" rel="stylesheet">
 
 </head>
 <body>
@@ -20,32 +22,42 @@
 
 <div class="container-fluid">
 
-    <div class="row">
-        <div class="col">
-            <div id="contacts">+711111111 ,asd@asd</div>
+    <div class="row justify-content-sm-end" id="contacts">
+        <div class="col-3 content-right">
+
+                    <span>
+                        <i class="bi bi-telephone mr-3"></i>
+                        <a href="tel:+7111111111" style="color: white"> +711111111</a>
+                    </span>
+            <span>
+                        <i class="bi bi-envelope mr-3 ml-3"></i>
+                        <a href="mailto:asd@asd" style="color: white">asd@asd</a>
+                    </span>
+
+
         </div>
     </div>
-    <div class="row">
-        <div class="col-5"></div>
-        <div class="col-2 text-center" id="nadpys" >
-            <a class="navbar-brand" href="index.html"> <img  src="images/logo.png" class="img-fluid mx-auto d-bloc"></a>
+    <div class="row justify-content-center" id="logo_background">
+        <div class="col text-center " id="nadpys" style="display: table; height: 100%">
+            <div class="navbar-brand"  style="display: table-cell; vertical-align: middle; text-align: center;">
+
+                <a href="index.html" style=" display: inline-block; color: black; font-size: 30px ">
+                    <span >Гостевой дом </span>
+                    <!--                        <img  src="images/logo111.png" style="width: 100px;">-->
+                </a>
+            </div>
         </div>
-        <div class="col-5"></div>
-
     </div>
-    <div class="row" id="mainNav">
-
+    <div class="row mainNav">
         <div class="container d-inline-flex justify-content-center">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-
+            <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.html">Главная<span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="index.html" >Главная<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
                             <a class="nav-link" href="room.html">Номера</a>
@@ -56,9 +68,10 @@
                         <li class="nav-item">
                             <a class="nav-link" href="fotogallery.html">Фотогаллерея</a>
                         </li>
-
+                        <li class="nav-item">
+                            <a class="nav-link" href="services.html">Услуги</a>
+                        </li>
                     </ul>
-
                 </div>
             </nav>
         </div>
@@ -425,16 +438,20 @@
     </div>
 </div>
 <span class="card border-bottom-5 border-primary mt-4 mb-4" ></span>
-
-
-
-
-
-    <div class="row justify-content-center">
-        <div class="col-sm-8 text-center">
-            всякие контакты и прочее
-        </div>
+<div class="row justify-content-center">
+    <div class="col-sm-8 text-center p-5">
+        <p>
+            Гостевой дом "Хрен его знает как называется"
+        </p>
+        <p>
+            asd@asd , +71111211111
+        </p>
+        <p>
+            Гостевой дом  уникальном, одном из самых красивых мест побережья.
+        </p>
     </div>
+</div>
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>

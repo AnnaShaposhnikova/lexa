@@ -1,39 +1,39 @@
+body{
+    background-image: url(./../images/wall123.jpg) ;
+    font-family: 'Poppins', sans-serif;
+}
 
-    #register{
-        background-color:plum;
-    }
+#contacts{
+    background-color:#31558e;
+    color:white;
+    letter-spacing: 5px;
 
-    #contacts{
-
-        background-color: aqua;
-        text-align: right;
-    }
-
+}
     #nadpys{
-        background-color: aquamarine;
+        background-position: 50% 50%;
+        background-position-x: 50%;
+        background-position-y: 50%;
         }
 
-    #mainNav{
-        background-color: darkkhaki;
+    .mainNav{
+        background-color:#c3d7f7;
+        font-family: 'Open Sans', sans-serif;
+        font-size:25px;
+        font-weight: bold;
+
+    }
+     ul li a{
+color:green;
     }
 
     .my_img{
         max-width:90%;
     }
-
-    #aboutUs{
-        margin-top: 50px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    #map{
-        background-color: lawngreen;
+#map{
         height: 500px;
+        overflow-y: scroll;
     }
-
-
-    .size-icon{
+.size-icon{
         font-size: 3em
     }
     .media-icon {
@@ -43,14 +43,23 @@
     .media-icon span{
         margin-left: 1em;
     }
-    .icon{
-        height: 32px;
-       width: 32px;
-        border: 1px solid black;
-    }
+    /*.icon{*/
+    /*    height: 32px;*/
+    /*   width: 32px;*/
+    /*    border: 1px solid black;*/
+    /*}*/
     .restzoneimg{
         height: 480px;
         width: 740px;
+    }
+    #logo_background{
+        height: 150px;
+        background-color: #dfe5eb;
+        background-image: url(./../images/long1.png) ;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-position-x: 50%;
+        background-position-y: 50%;
     }
 
 
