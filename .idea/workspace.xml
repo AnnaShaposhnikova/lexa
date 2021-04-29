@@ -1,11 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="6 commit_fotogalary+change_navbar">
+    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/beach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/insagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settlement.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fotogallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotogallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1_etag_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2_etag_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2_etag_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2_etag_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2_etag_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2_etag_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2_etag_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2_etag_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3_etag_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Air-Conditioner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Double-Bed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Electric-Teapot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Mini-Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Shower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Single-Bed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Tableware.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banya_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/detskaya_krovatka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/detskoe-kreslo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/etskoe-kreslo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jumpoline.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jumpoline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kara1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/karta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mangal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/maski_trybki_lasti.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/morda/car1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/morda/car1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/morda/car2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/morda/car2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/morda/car3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/morda/car3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sofa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/stiralnaya_mashina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tandyr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0570.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0571.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0572.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0574.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0575.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0576.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0577.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0582.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0583.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0584.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0585.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/DSC_0586.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/DSC_0584.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/DSC_0586.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Дача 2018/Untitled Folder/DSC_0587.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/морда.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ниса.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ниса.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/equalHeight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.5.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexa/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/restzone.html" beforeDir="false" afterPath="$PROJECT_DIR$/restzone.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/room.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
@@ -57,7 +148,9 @@
     <option name="height" value="1040" />
   </component>
   <component name="ProjectId" id="1oVt5PqGjh4cnrUmOSDM7wyyVJ9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -95,18 +188,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kirill/css/style.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.services.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lexa/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -121,8 +216,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.services.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.services.html" />
         <item itemvalue="JavaScript Debug.restzone.html" />
       </list>
     </recent_temporary>
@@ -154,6 +249,9 @@
       <workItem from="1617018519679" duration="2567000" />
       <workItem from="1617263491312" duration="248000" />
       <workItem from="1618814544234" duration="1674000" />
+      <workItem from="1619423204400" duration="2235000" />
+      <workItem from="1619426548676" duration="4286000" />
+      <workItem from="1619528850270" duration="20873000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit_main_page">
       <created>1612779456969</created>
@@ -218,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614774477446</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="9_add media to style">
+      <created>1619175970720</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619175970720</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -289,6 +394,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 commit_main_page" />
@@ -300,14 +406,15 @@
     <MESSAGE value="5 commit_restzone_rooms_add_ big_foto" />
     <MESSAGE value="6 commit_fotogalary+change_navbar" />
     <MESSAGE value="7 commit_change_navbar_and_index" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 commit_change_navbar_and_index" />
+    <MESSAGE value="9_add media to style" />
+    <option name="LAST_COMMIT_MESSAGE" value="9_add media to style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/room.html</url>
-          <line>248</line>
+          <line>246</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

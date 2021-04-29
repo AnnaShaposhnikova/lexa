@@ -200,6 +200,58 @@ color:green;
 p, ul li, ul{
     font-size: 1.25rem;
 }
+/*.nav-item{*/
+/*    padding-left: 1em;*/
+/*    padding-right: 1em;*/
+/*}*/
+nav button .navbar-toggler{
+    text-align: left;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+
+footer .brand-social {
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer .brand a {
+    display: block;
+    vertical-align: middle;
+}
+
+footer .brand a img {
+    margin: 1em;
+}
+
+/*.carousel{*/
+/*    max-height: 50%;*/
+/*    overflow: hidden;*/
+/*    display: flex;*/
+/*  */
+/*}*/
+/*.carousel img{*/
+
+/*}*/
+
+.span{
+    display: inline-block;
+}
+
+p{
+    text-indent: 20px;
+}
+.btn-color{
+    background-color: #f24f0a ;
+    color: black ;
+}
+
 
 
 
