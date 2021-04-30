@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beach.html" beforeDir="false" afterPath="$PROJECT_DIR$/beach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fotogallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotogallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rooms/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rooms/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rooms/2_etag_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rooms/2_etag_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rooms/2_etag_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rooms/2_etag_11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/stiralnaya_mashina.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/services/stiralnaya_mashina.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restzone.html" beforeDir="false" afterPath="$PROJECT_DIR$/restzone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/room.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settlement.html" beforeDir="false" afterPath="$PROJECT_DIR$/settlement.html" afterDir="false" />
-    </list>
+    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +152,7 @@
       <workItem from="1618814544234" duration="1674000" />
       <workItem from="1619423204400" duration="2235000" />
       <workItem from="1619426548676" duration="4286000" />
-      <workItem from="1619528850270" duration="50183000" />
+      <workItem from="1619528850270" duration="50391000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit_main_page">
       <created>1612779456969</created>
@@ -253,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619778593947</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="12_change p">
+      <created>1619801905583</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619801905583</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -339,7 +331,8 @@
     <MESSAGE value="9_add media to style" />
     <MESSAGE value="10_add on index rooms abd services. Animation" />
     <MESSAGE value="11_add prise,settlement,beach pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="11_add prise,settlement,beach pages" />
+    <MESSAGE value="12_change p" />
+    <option name="LAST_COMMIT_MESSAGE" value="12_change p" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
