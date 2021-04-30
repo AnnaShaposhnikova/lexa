@@ -115,13 +115,17 @@ h5,
     font-size: calc(1.275rem + 0.3vw);
 }
 
-
 body {
     background-image: url(./../images/wall123.jpg);
     font-family: 'Philosopher', sans-serif;
     /*font-family: 'Poppins', sans-serif;*/
 }
 
+main{
+    background-color:#FFFAFA;
+    box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+    -webkit-box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+}
 .contacts {
     background-color: #FF8300;
     color: white;
@@ -146,7 +150,6 @@ body {
     /*font-family: 'Open Sans', sans-serif;*/
     font-size: 25px;
     font-weight: bold;
-
 }
 
 #map {
@@ -166,11 +169,6 @@ body {
     margin-left: 1em;
 }
 
-/*.icon{*/
-/*    height: 32px;*/
-/*   width: 32px;*/
-/*    border: 1px solid black;*/
-/*}*/
 .restzoneimg {
     height: 480px;
     width: 740px;
@@ -209,24 +207,19 @@ body {
 p, ul li, ul {
     font-size: 1.3rem;
 }
+p {
+    text-indent: 20px;
+}
 .card p{
     font-size: 1.3rem;
 }
-
-/*.nav-item{*/
-/*    padding-left: 1em;*/
-/*    padding-right: 1em;*/
-/*}*/
 nav button .navbar-toggler {
     text-align: left;
 }
-
 footer {
     background-color: black;
     color: white;
 }
-
-
 footer .brand-social {
     vertical-align: middle;
     display: flex;
@@ -243,22 +236,8 @@ footer .brand a img {
     margin: 1em;
 }
 
-/*.carousel{*/
-/*    max-height: 50%;*/
-/*    overflow: hidden;*/
-/*    display: flex;*/
-/*  */
-/*}*/
-/*.carousel img{*/
-
-/*}*/
-
 .span {
     display: inline-block;
-}
-
-p {
-    text-indent: 20px;
 }
 
 .btn-color {

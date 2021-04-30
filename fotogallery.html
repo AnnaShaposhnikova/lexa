@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link href="css/style.css" type="text/css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&family=Shippori+Mincho:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Philosopher&display=swap" rel="stylesheet">
 </head>
 <body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -19,61 +19,70 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
         crossorigin="anonymous"></script>
-<div class="container-fluid">
-    <div class="row justify-content-sm-end" id="contacts">
-        <div class="col-3 content-right">
-
+<header>
+    <div class="container-fluid">
+        <div class="row justify-content-sm-end contacts">
+            <div class="col" style="text-align: right">
                     <span>
-                        <i class="bi bi-telephone mr-3"></i>
-                        <a href="tel:+7111111111" style="color: white"> +711111111</a>
+                        <a href="tel:+7111111111"> <i class="bi bi-telephone mr-3"></i>+711111111</a>
                     </span>
-            <span>
-                        <i class="bi bi-envelope mr-3 ml-3"></i>
-                        <a href="mailto:asd@asd" style="color: white">asd@asd</a>
-                    </span>
-
-
+                <span>
+                    <a href="mailto:asd@asd"> <i class="bi bi-envelope mr-3 ml-3"></i>asd@asd</a>
+                </span>
+            </div>
         </div>
-    </div>
-    <div class="row justify-content-center" id="logo_background">
-        <div class="col text-center " id="nadpys" style="display: table; height: 100%">
-            <div class="navbar-brand"  style="display: table-cell; vertical-align: middle; text-align: center;">
-
-                <a href="index.html" style=" display: inline-block; color: black; font-size: 30px ">
-                    <span >Гостевой дом </span>
-                    <!--                        <img  src="images/logo111.png" style="width: 100px;">-->
-                </a>
+        <div class="row justify-content-center logo_background">
+            <div class="col text-center nadpys">
+                <div class="navbar-brand">
+                    <a href="index.html">
+                        <span>Гостевой дом</span>
+                        <!--                        <img  src="images/logo111.png" style="width: 100px;">-->
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row mainNav">
+            <div class="col d-inline-flex justify-content-center">
+                <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Главная</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="room.html">Номера</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="price.html">Цены</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="restzone.html">Территория гостевого дома</a>
+                            </li>
+                            <li class="nav-item active">
+                                <a class="nav-link" href="fotogallery.html">Фотогаллерея<span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="services.html">Услуги</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="beach.html">Пляжи</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="settlement.html">О поселке</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
             </div>
         </div>
     </div>
-    <div class="row mainNav">
-        <div class="container d-inline-flex justify-content-center">
-            <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html" >Главная<span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="room.html">Номера</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="restzone.html">Кухня и зоны отдыха</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="fotogallery.html">Фотогаллерея</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="services.html">Услуги</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
-    </div>
+</header>
+<main>
 
     <div class="row justify-content-center">
         <div class="col-sm-4 mt-2 text-center">
@@ -88,22 +97,25 @@
     <div class="row p-2">
                 <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/1.JPG"><img src="images/11.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/rooms/1_etag_11.jpg"><img src="images/rooms/1_etag_1.jpg" class="img-fluid"></a>
             </div>
         </div>
         <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/2.JPG"><img src="images/21.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/rooms/2_etag_11.jpg"><img src="images/rooms/2_etag_1.jpg"
+                                                                                  class="my_img img-fluid"></a>
             </div>
         </div>
         <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/3.JPG"><img src="images/31.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/rooms/3_etag_11.jpg"><img src="images/rooms/3_etag_1.jpg"
+                                                                                  class="my_img img-fluid"></a>
             </div>
         </div>
         <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/4.JPG"><img src="images/41.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/rooms/4mestny_11.jpg"><img src="images/rooms/4mestny_1.jpg"
+                                                                                  class="my_img img-fluid"></a>
             </div>
         </div>
 
@@ -116,26 +128,68 @@
     <div class="row p-2">
         <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/1.JPG"><img src="images/11.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/yard_11.jpg"><img src="images/yard_1.JPG"
+                                                                                  class="my_img img-fluid"></a>
             </div>
         </div>
         <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/2.JPG"><img src="images/21.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/yard_21.jpg"><img src="images/yard_2.jpg" class="img-fluid"></a>
             </div>
         </div>
         <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/3.JPG"><img src="images/31.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/yard_31.jpg"><img src="images/yard_3.jpg" class="img-fluid"></a>
             </div>
         </div>
         <div class="col-sm-3 pt-2 text-center">
             <div>
-                <a data-fancybox="gallery" href="images/4.JPG"><img src="images/41.jpg" class="img-fluid"></a>
+                <a data-fancybox="gallery" href="images/yard_4.JPG"><img src="images/yard_4.JPG" class="img-fluid"></a>
             </div>
         </div>
     </div>
+</main>
+<footer>
+    <section class="container pt-4">
+        <div class="row justify-content-center">
+            <div class="col-sm-4 text-сenter">
+                <div>
+                    <div class="text-center">
+                        <img src="images/logo111.png" class="mx-auto my-3" style="max-width: 20em">
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 text-center">
+                <h4>
+                    Наши контакты
+                </h4>
+                <p>
+                    тел
+                </p>
+                <p>
+                    e-mail
+                </p>
+            </div>
+            <div class="col-sm-4 text-start">
+                <div>
+                    <h4 class="text-center">Мы в соцсетях</h4>
+                    <div class="brand-social p-3">
+                        <a href="https://www.instagram.com">
+                            <img src="images/insagram.jpg" style="height: 50px">
+                        </a>
+                    </div>
+                    <div class="brand-social p-3">
+                        <a href="https://www.facebook.com">
+                            <img src="images/facebook.jpg" style="height: 50px">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <div class="row justify-content-center">
+
         <div class="col-sm-8 text-center p-5">
             <p>
                 Гостевой дом "Дачная 28"
@@ -144,12 +198,11 @@
                 asd@asd , +71111211111
             </p>
             <p>
-                Гостевой дом  уникальном, одном из самых красивых мест побережья.
+                Гостевой дом уникальном, одном из самых красивых мест побережья.
             </p>
         </div>
     </div>
-
-</div>
+</footer>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 
