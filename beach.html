@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head>
     <meta http-equiv="content-type" content="text/html" charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link href="css/style.css" type="text/css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&family=Shippori+Mincho:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Philosopher&display=swap" rel="stylesheet">
 </head>
 <body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -19,143 +19,427 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
         crossorigin="anonymous"></script>
-<div class="container-fluid">
-    <div class="row justify-content-sm-end" id="contacts">
-        <div class="col-3 content-right">
 
+<header>
+    <div class="container-fluid">
+        <div class="row justify-content-sm-end contacts">
+            <div class="col" style="text-align: right">
                     <span>
-                        <i class="bi bi-telephone mr-3"></i>
-                        <a href="tel:+7111111111" style="color: white"> +711111111</a>
+                        <a href="tel:+7111111111"> <i class="bi bi-telephone mr-3"></i>+711111111</a>
                     </span>
-            <span>
-                        <i class="bi bi-envelope mr-3 ml-3"></i>
-                        <a href="mailto:asd@asd" style="color: white">asd@asd</a>
-                    </span>
-
-
+                <span>
+                    <a href="mailto:asd@asd"> <i class="bi bi-envelope mr-3 ml-3"></i>asd@asd</a>
+                </span>
+            </div>
         </div>
-    </div>
-    <div class="row justify-content-center" id="logo_background">
-        <div class="col text-center " id="nadpys" style="display: table; height: 100%">
-            <div class="navbar-brand"  style="display: table-cell; vertical-align: middle; text-align: center;">
-
-                <a href="index.html" style=" display: inline-block; color: black; font-size: 30px ">
-                    <span >Гостевой дом </span>
-                    <!--                        <img  src="images/logo111.png" style="width: 100px;">-->
-                </a>
+        <div class="row justify-content-center logo_background">
+            <div class="col text-center nadpys">
+                <div class="navbar-brand">
+                    <a href="index.html">
+                        <span>Гостевой дом</span>
+                        <!--                        <img  src="images/logo111.png" style="width: 100px;">-->
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row mainNav">
+            <div class="col d-inline-flex justify-content-center">
+                <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item ">
+                                <a class="nav-link" href="index.html">Главная</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="room.html">Номера</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="price.html">Цены</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="restzone.html">Территория гостевого дома</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="fotogallery.html">Фотогаллерея</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="services.html">Услуги</a>
+                            </li>
+                            <li class="nav-item active">
+                                <a class="nav-link" href="beach.html">Пляжи<span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="settlement.html">О поселке</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
             </div>
         </div>
     </div>
-    <div class="row mainNav">
-        <div class="container d-inline-flex justify-content-center">
-            <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html" >Главная<span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="room.html">Номера</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="restzone.html">Кухня и зоны отдыха</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="fotogallery.html">Фотогаллерея</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="services.html">Услуги</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
-    </div>
+</header>
 
+<main>
     <div class="row justify-content-center">
         <div class="col-sm-4 mt-2 text-center">
             <h2>Пляжи Орджоникидзе</h2>
-            <p>
-                Благодаря удачному географическому положению у него есть отличные перспективы. Этот крымский поселок находится в основании мыса, поэтому с трех сторон охвачен морем, а на суше его подпирают горы. Южное побережье выходит на бухту Провато, северное – на Двуякорную.
-
-                Еще один важный плюс геолокации – место находится в отдалении от крупных автомагистралей, это тупик, поэтому даже в высокий сезон в воздухе мало выхлопных газов, нет постоянного шума, характерного для больших курортов. К тому же здесь нет промышленного производства.
-
-            <p>Мягкий климат позволяет отдыхать тут круглый год, но пляжный сезон продолжается с мая по октябрь.
-            Причем даже в наиболее жаркое время, в июле и августе, здесь легко дышится.
-            Помогает морской бриз, который обдувает поселок почти со всех сторон.
-        </p>
+        </div>
+    </div>
+                <div class="row justify-content-center">
+                <div class="col mt-2">
+            <article>
+                <p>
                 <p>По самым скромным подсчетам в Орджоникидзе и его окрестностях расположено примерно 15 пляжей.
-                    Самый известный Агатовый, или, как говорят местные жители, Заводской.
-                    Он находится на южном берегу. Покрыт галькой, дно у берега тоже каменистое,
-                    из-за этого вода всегда прозрачная, красивого бирюзового оттенка.
-                    На пляже оборудованы раздевалки, можно арендовать зонтики и лежаки.
+
                     Есть традиционные морские развлечения и заведения общественного питания.
                     Отдыхающие любят это место за чудесные виды на Коктебельский залив и бухту Провато.
                     Многие с удовольствием бродят по берегу в надежде найти кусочки драгоценного агата.
-</p>
-                Со стороны Двуякорной бухты располагается целая череда пляжей, покрытых мелкой галькой с песком, полностью каменистых или песчаных. Там есть и дикие необорудованные для купания места и облагороженные участки возле гостевых объектов.
-            </p>
+                </p>
+                <p>
+                    Со стороны Двуякорной бухты располагается целая череда пляжей, покрытых мелкой галькой с песком,
+                    полностью
+                    каменистых или песчаных. Там есть и дикие необорудованные для купания места и облагороженные участки
+                    возле
+                    гостевых объектов.
+                </p>
+            </article>
         </div>
     </div>
     <div class="row justify-content-center">
         <div class="col-sm-4 mt-2 text-center">
-            <h4>Пляж Центральный</h4>
-            <p style="">
-
-            </p>
+            <h3>Пляжи бухты Провато</h3>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-4 mt-2 text-center">
+            <h4>Пляж Агатовый</h4>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col mt-2">
+            <article>
+                <p>
+                    Агатовый пляж, или, как говорят местные жители, Заводской.
+                    Он находится на южном берегу. Покрыт галькой, дно у берега тоже каменистое,
+                    из-за этого вода всегда прозрачная, красивого бирюзового оттенка.
+                    На пляже оборудованы раздевалки, можно арендовать зонтики и лежаки.
+                    Возле пляжа есть стоянка для автомобилей.
+                    Для спуска на пляж есть оборудованная бетонная лестница.
+                </p>
+            </article>
         </div>
     </div>
     <div class="row p-2">
         <div class="col-sm-4 pt-2 text-center">
-            <div>
-                <img src="images/beach/first.jpg" class="img-fluid">
-            </div>
+            <figure>
+                <img src="images/beach/agat1.jpg" class="img-fluid">
+            </figure>
         </div>
         <div class="col-sm-4 pt-2 text-center">
-            <div>
-                <img src="images/beach/first_2.jpg" class="img-fluid">
-            </div>
+            <figure>
+                <img src="images/beach/agat2.jpg" class="img-fluid">
+            </figure>
         </div>
         <div class="col-sm-4 pt-2 text-center">
-            <div>
-                <img src="images/beach/first_3.jpg" class="img-fluid">
-            </div>
+            <figure>
+                <img src="images/beach/agat3.jpg" class="img-fluid">
+            </figure>
         </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-6 mt-2 text-center">
+            <h4>Пляж Центральный</h4>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col mt-2">
+            <article>
+                <p>
 
+                    Для любителей понежиться под солнцем на теплом песке подойдет центральный пляж.
+                    Центральный поселковый пляж Орджоникидзе очень удобен для отдыха: широкий, песчаный,
+                    со стороны набережной оборудован шезлонгами, навесами и раздевалками.
+                    Ближе к морю много места, где все желающие могут расположиться с своими подстилками и зонтами.
+                    Дно пологое, песчаное, на небольшом отдалении от берега под водой находятся крупные камни,
+                    у которых можно поплавать с маской и трубкой. Пляж занимает примерно треть морского фасада посёлка
+                    — около 300 метров. Любые удобства, необходимые для отдыха, находятся по соседству с пляжем на
+                    Набережной: несколько бюджетных столовых и кафе, торговые палатки с фруктами, напитками и мороженным
+                    , туалеты, души. На пляжах представлен широкий выбор развлечений: надувные горки, водные батуты,
+                    аттракционы "банан" и
+                    "таблетка", и многое другое.
+
+                </p>
+                <p>
+                    Сам пляж песчаный
+                </p>
+            </article>
+        </div>
+    </div>
+    <div class="row p-2">
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/center1.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/center2.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/center3.jpg" class="img-fluid">
+            </figure>
+        </div>
+    </div>
+
+        <div class="row justify-content-center">
+            <div class="col-sm-6 mt-2 text-center">
+                <h4>Пляж за Первым мысом</h4>
+            </div>
+        </div>
+    <div class="row justify-content-center">
+        <div class="col mt-2">
+            <article>
+                <p>
+                    Более отдаленный, чем Центральный пляж, но не менее популярный. Для того, чтобы добраться до него,
+                    нужно подняться на Первый мыс, полюбоваться прекрасными видами бухты Провато и Кара-Дага, и
+                    спуститься на пляж.
+                    Пляж не оборудован шезлонгами и навесами, он остался во всей своей первозданной красоте.
+                </p>
+                <p>
+                    Сам пляж песчано-галечный, на берегу приемущественно песок, дно каменисто-песчаное. Как правило,
+                    вода на нем
+                    чистая и прозрачная. Этот пляж привлекает молодые семьи с детьми и активное старшее поколение.
+                    Поэтому на пляже редко можно встретить нудистов.
+                </p>
+            </article>
+        </div>
+    </div>
+    <div class="row p-2">
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/first.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/first_2.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/first_3.jpg" class="img-fluid">
+            </figure>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-6 mt-2 text-center">
+            <h4>Пляжи за Вторым и Третьим мысами</h4>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col mt-2">
+            <article>
+                <p>
+                    Если Вы любитель отдыха без одежды, в дали от шума популярных пляжей, желаете слышать
+                    только шум волн и крик чаек - добро подаловать на пляжи за Вторым и Третьим мысами.
+                    Пляжи не оборудован шезлонгами и навесами, он остался во всей своей первозданной красоте.
+                </p>
+                <p>
+                    Сами пляжи галечные,дно каменистое. Поэтому даже после сильных волненией на море вода на пляжах
+                    чистая и прозрачная.
+                </p>
+                <p>
+                    За Четвертым  мысом также есть галечный пляж, но добраться до него можно только по воде вброд.
+                    Прийдя туда даже в высокий сезон, вы можете оказаться единственным его посетителем.
+                </p>
+            </article>
+        </div>
+    </div>
+    <div class="row p-2">
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/third1.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/third2.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/third3.JPG" class="img-fluid">
+            </figure>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-4 mt-2 text-center">
+            <h3>Пляжи бухты Двуякорная</h3>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-6 mt-2 text-center">
+            <h4>Пляж Краснячка</h4>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col mt-2">
+            <article>
+                <p>
+                    Симпатичный и просторный пляж, затерянный между холмов на северном побережье поселка.
+                    Название "Краснячка" скорей всего возникло благодаря наличию камней красного и бурого
+                    цвета в структуре близлежащих пляжей. Хотя именно этот пляж состоит из песка и совсем
+                    мелких камушков. Чтобы попасть сюда, необходимо перейти через гору Седло.
+                    В жаркий день путь этот будет не из легких: к пляжу ведет длинный спуск,
+                    а возвращаться придется поднимаясь в гору. Но и экстремальным его не назовешь,
+                    сюда часто приходят с детьми. Дорога от центра поселка займет минут 15 - 20.
+                    Перед посещением необходимо запастись питьевой водой или даже легким перекусом.
+                    Пляж не оборудован шезлонгами и навесами, он остался во всей своей первозданной красоте.
+                </p>
+                <p>
+                    Сам пляж галечный,дно каменистое. Поэтому даже после сильных волненией на море вода на пляжае
+                    чистая и прозрачная.
+                </p>
+
+            </article>
+        </div>
+    </div>
+    <div class="row p-2">
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/kras3.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/kras1.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/kras2.jpg" class="img-fluid">
+            </figure>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-sm-6 mt-2 text-center">
+            <h4>Пляж Под седлом</h4>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col mt-2">
+            <article>
+
+                <p>На восток,  среди мягких холмов над уютной живописной бухтой
+                    возвышается неожиданно высокий каменный массив.
+                    Скала эта называется "Седло", т.к. его и напоминает по форме.
+                    А пляж, соответственно — "Под Седлом".
+                </p>
+                    <p>
+                    По контрасту с круто нависшей скалой, сам пляж довольно уютен.
+                    Этот небольшой галечный участок побережья окружен валунами и закрыт от посторонних глаз.
+                    Любителям поплавать с маской здесь настоящее раздолье.
+                    Можно также обойти "Седло" по воде и попасть в уединенную бухточку с галечным пляжем
+                    и огромными скалистыми навесами. Естественно, никакой цивилизации.
+                </p>
+                    <p>Сам пляжи галечный,дно каменистое. Поэтому даже после сильных волненией на море вода на пляжае
+                    чистая и прозрачная.
+                    Во второй половине дня пляж в тени скалы "Седло", нет необходимости возвращаться в самое жаркое время
+                домой, поэтому на пляж часто приходят на целый день.</p>
+                <p>
+                    Перед посещением необходимо запастись питьевой водой или даже легким перекусом.
+                </p>
+
+
+            </article>
+        </div>
+    </div>
+    <div class="row p-2">
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/sedlo1.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/sedlo2.jpg" class="img-fluid">
+            </figure>
+        </div>
+        <div class="col-sm-4 pt-2 text-center">
+            <figure>
+                <img src="images/beach/sedlo3.jpg" class="img-fluid">
+            </figure>
+        </div>
     </div>
 
 
+</main>
+<footer>
+    <section class="container">
         <div class="row justify-content-center">
-
-            <div class="col-sm-8 text-center p-5">
+            <div class="col-sm-4 text-сenter">
+                <div>
+                    <div class="text-center">
+                        <img src="images/logo111.png" class="mx-auto my-3" style="max-width: 20em">
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 text-center">
+                <h4>
+                    Наши контакты
+                </h4>
                 <p>
-                    Гостевой дом "Дачная 28"
+                    тел
                 </p>
                 <p>
-                    asd@asd , +71111211111
-                </p>
-                <p>
-                    Гостевой дом уникальном, одном из самых красивых мест побережья.
+                    e-mail
                 </p>
             </div>
+            <div class="col-sm-4 text-start">
+                <div>
+                    <h4 class="text-center">Мы в соцсетях</h4>
+                    <div class="brand-social p-3">
+                        <a href="https://www.instagram.com">
+                            <img src="images/insagram.jpg" style="height: 50px">
+                        </a>
+                    </div>
+                    <div class="brand-social p-3">
+                        <a href="https://www.facebook.com">
+                            <img src="images/facebook.jpg" style="height: 50px">
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
-        </footer>
+    </section>
 
-</div>
+    <div class="row justify-content-center">
 
-
-
-
-
-
+        <div class="col-sm-8 text-center p-5">
+            <p>
+                Гостевой дом "Дачная 28"
+            </p>
+            <p>
+                asd@asd , +71111211111
+            </p>
+            <p>
+                Гостевой дом уникальном, одном из самых красивых мест побережья.
+            </p>
+        </div>
+    </div>
+</footer>
 
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"/>
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <script>
