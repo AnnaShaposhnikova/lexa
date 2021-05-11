@@ -3,31 +3,12 @@
         margin-left: 3em;
         margin-right: 3em;
     }
-
-    h1 {
-
-        font-weight: bold;
-        font-size: 2em;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-    }
-
 }
 
 @media (min-width: 768px) {
     main {
         margin-left: 3em;
         margin-right: 3em;
-    }
-
-    h1 {
-        font-size: 2em;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-    }
-
-    h5 {
-        font-size: medium;
     }
 }
 
@@ -36,17 +17,6 @@
         margin-left: 6em;
         margin-right: 6em;
     }
-
-    h5 {
-        font-size: medium;
-    }
-
-    h1 {
-        font-size: 2.5em;
-        margin-top: 1em;
-        margin-bottom: 1em
-    }
-
 }
 
 @media (min-width: 1200px) {
@@ -152,10 +122,9 @@ main{
 }
 
 .mainNav {
-    /*background-color: #a9c6f5;*/
+
     background-color: #FF8300;
     font-family: 'Philosopher', sans-serif;
-    /*font-family: 'Open Sans', sans-serif;*/
     font-size: 25px;
     font-weight: bold;
 }

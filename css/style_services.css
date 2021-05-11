@@ -1,8 +1,6 @@
 
 .serv {
 
-    height: 220px;
-    width: 350px;
     overflow: hidden;
     border: 1px white solid; /* стили рамки */
     -moz-border-radius: 30px; /* закругление для старых Mozilla Firefox */
@@ -11,7 +9,7 @@
     border-radius: 30px; /* закругление углов для всех, кто понимает */
 }
 
-.services {
+.serv img {
     height: 150px;
     width: 220px;
     transition: all 1s ease-out;
@@ -22,7 +20,7 @@
     border-radius: 30px; /* закругление углов для всех, кто понимает */
 }
 
-.services:hover {
+.serv img:hover {
     transform: scale(1.2);
 }
 
