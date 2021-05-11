@@ -136,6 +136,14 @@ main{
     color: black;
     font-size: 1.2em;
 }
+.contacts-footer {
+    color: white;
+    letter-spacing: 3px;
+}
+
+.contacts-footer a {
+    color: white;
+}
 
 .nadpys {
     background-position: 50% 50%;

@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="13_change button">
-      <change afterPath="$PROJECT_DIR$/images/services/drova.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/services/stiralnaya_mashina1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/services/stiralnaya_mashina11.jpg" afterDir="false" />
+    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beach.html" beforeDir="false" afterPath="$PROJECT_DIR$/beach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotogallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotogallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services/mangal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/services/mangal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restzone.html" beforeDir="false" afterPath="$PROJECT_DIR$/restzone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settlement.html" beforeDir="false" afterPath="$PROJECT_DIR$/settlement.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +165,8 @@
       <workItem from="1619423204400" duration="2235000" />
       <workItem from="1619426548676" duration="4286000" />
       <workItem from="1619528850270" duration="50391000" />
-      <workItem from="1619802196788" duration="301000" />
+      <workItem from="1619802196788" duration="419000" />
+      <workItem from="1620718226852" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit_main_page">
       <created>1612779456969</created>
@@ -257,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619802458533</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="13_change button">
+      <created>1619802512528</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619802512528</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -344,14 +360,15 @@
     <MESSAGE value="10_add on index rooms abd services. Animation" />
     <MESSAGE value="11_add prise,settlement,beach pages" />
     <MESSAGE value="12_change p" />
-    <option name="LAST_COMMIT_MESSAGE" value="12_change p" />
+    <MESSAGE value="13_change button" />
+    <option name="LAST_COMMIT_MESSAGE" value="13_change button" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/room.html</url>
-          <line>245</line>
+          <line>242</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
