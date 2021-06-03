@@ -1,7 +1,15 @@
+header .logo_background{
+    height: 150px;
+}
+
 @media (min-width: 576px) {
     main {
         margin-left: 3em;
         margin-right: 3em;
+    }
+
+    header .logo_background{
+        height: 150px;
     }
 }
 
@@ -10,12 +18,20 @@
         margin-left: 3em;
         margin-right: 3em;
     }
+
+    header .logo_background{
+        height: 150px;
+    }
 }
 
 @media (min-width: 992px) {
     main {
         margin-left: 6em;
         margin-right: 6em;
+    }
+
+    header .logo_background{
+        height: 300px;
     }
 }
 
@@ -33,62 +49,62 @@ header,
 main,
 nav,
 section {
-    display: block;
-    position: relative;
+display: block;
+position: relative;
 }
 
 legend {
-    font-size: calc(1.275rem + 0.3vw);
+font-size: calc(1.275rem + 0.3vw);
 }
 
 h1,
 .h1 {
-    font-size: calc(1.375rem + 1.5vw);
+font-size: calc(1.375rem + 1.5vw);
 }
 
 h2,
 .h2 {
-    font-size: calc(1.325rem + 0.9vw);
+font-size: calc(1.325rem + 0.9vw);
 }
 
 h3,
 .h3 {
-    font-size: calc(1.3rem + 0.6vw);
+font-size: calc(1.3rem + 0.6vw);
 }
 
 h4,
 .h4 {
-    font-size: calc(1.275rem + 0.3vw);
+font-size: calc(1.275rem + 0.3vw);
 }
 h5,
 .h5 {
-    font-size: calc(1.25rem + 0.2vw);
+font-size: calc(1.25rem + 0.2vw);
 }
 
 .display-1 {
-    font-size: calc(1.725rem + 5.7vw);
+font-size: calc(1.725rem + 5.7vw);
 }
 
 .display-2 {
-    font-size: calc(1.675rem + 5.1vw);
+font-size: calc(1.675rem + 5.1vw);
 }
 
 .display-3 {
-    font-size: calc(1.575rem + 3.9vw);
+font-size: calc(1.575rem + 3.9vw);
 }
 
 .display-4 {
-    font-size: calc(1.475rem + 2.7vw);
+font-size: calc(1.475rem + 2.7vw);
 }
 
 .close {
-    font-size: calc(1.275rem + 0.3vw);
+font-size: calc(1.275rem + 0.3vw);
 }
 
 body {
-    background-image: url(./../images/wall123.jpg);
-    font-family: 'Philosopher', sans-serif;
-    /*font-family: 'Poppins', sans-serif;*/
+background-image: url(./../images/wall123.jpg);
+font-family: 'Philosopher', sans-serif;
+/*font-family: 'Poppins', sans-serif;*/
 }
 
 main{
@@ -152,7 +168,6 @@ main{
 }
 
 .logo_background {
-    height: 300px;
     background-color: #dfe5eb;
     background-image: url(./../images/morda/main_img.jpg);
     background-repeat: no-repeat;

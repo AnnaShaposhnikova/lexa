@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="14_change footer and contacts">
+    <list default="true" id="96405078-f6f6-4aa8-bbde-357d8a82bfa4" name="Default Changelist" comment="16_logo">
+      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beach.html" beforeDir="false" afterPath="$PROJECT_DIR$/beach.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_services.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_services.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fotogallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotogallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo111.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/price.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/restzone.html" beforeDir="false" afterPath="$PROJECT_DIR$/restzone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/room.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settlement.html" beforeDir="false" afterPath="$PROJECT_DIR$/settlement.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,16 +98,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
@@ -166,7 +163,11 @@
       <workItem from="1619426548676" duration="4286000" />
       <workItem from="1619528850270" duration="50391000" />
       <workItem from="1619802196788" duration="419000" />
-      <workItem from="1620718226852" duration="7637000" />
+      <workItem from="1620718226852" duration="10197000" />
+      <workItem from="1620808405321" duration="466000" />
+      <workItem from="1622110273439" duration="825000" />
+      <workItem from="1622111114490" duration="6738000" />
+      <workItem from="1622483900656" duration="5305000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit_main_page">
       <created>1612779456969</created>
@@ -280,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620722570141</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="15_change footer, servises">
+      <created>1620727490168</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620727490168</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -369,7 +377,9 @@
     <MESSAGE value="12_change p" />
     <MESSAGE value="13_change button" />
     <MESSAGE value="14_change footer and contacts" />
-    <option name="LAST_COMMIT_MESSAGE" value="14_change footer and contacts" />
+    <MESSAGE value="15_change footer, servises" />
+    <MESSAGE value="16_logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="16_logo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
